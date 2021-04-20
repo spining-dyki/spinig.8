@@ -1,1 +1,1 @@
-# spinig.8
+# spining.8
